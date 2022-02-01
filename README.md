@@ -11,7 +11,7 @@ I'm a full stack developer ❤💻
 <div align="left">
  
 ``` js
-const stebs = {
+const raniely = {
     personal: {
         fullName: 'Raniely Freitas',
         birthDate: '2002-02-11',
